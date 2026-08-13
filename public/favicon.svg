@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="32" fill="#0b0d1a"/>
+  <rect width="124" height="124" x="2" y="2" rx="30" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-opacity="0.4"/>
+  <!-- Neural node connection lines -->
+  <line x1="24" y1="36" x2="64" y2="64" stroke="#8b5cf6" stroke-width="3" stroke-opacity="0.5"/>
+  <line x1="24" y1="92" x2="64" y2="64" stroke="#8b5cf6" stroke-width="3" stroke-opacity="0.5"/>
+  <line x1="64" y1="64" x2="104" y2="36" stroke="#06b6d4" stroke-width="3" stroke-opacity="0.5"/>
+  <line x1="64" y1="64" x2="104" y2="92" stroke="#06b6d4" stroke-width="3" stroke-opacity="0.5"/>
+  <!-- Nodes -->
+  <circle cx="24" cy="36" r="6" fill="#a855f7"/>
+  <circle cx="24" cy="92" r="6" fill="#a855f7"/>
+  <circle cx="104" cy="36" r="6" fill="#06b6d4"/>
+  <circle cx="104" cy="92" r="6" fill="#06b6d4"/>
+  <!-- Central Badge SG -->
+  <circle cx="64" cy="64" r="26" fill="#7c3aed"/>
+  <text x="64" y="72" font-family="system-ui, sans-serif" font-weight="900" font-size="24" fill="#ffffff" text-anchor="middle" letter-spacing="1">SG</text>
+</svg>
